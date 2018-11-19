@@ -1,8 +1,17 @@
 import Vue from 'vue'
-import App from './App.vue'
 
-Vue.config.productionTip = false
+import tagComponent from './components/tag-component/tag-component'
 
-new Vue({
-  render: h => h(App)
-}).$mount('#app')
+const components = [
+  tagComponent
+]
+
+components.forEach(component => {
+  Vue.component(component.name, component)
+})
+
+module.exports = {
+  tagComponent
+}
+
+module.exports.default = module.exports
