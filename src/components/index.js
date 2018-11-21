@@ -1,1 +1,1 @@
-export { default as tagComponent } from './tag-component'
+export * from './tag-component'
