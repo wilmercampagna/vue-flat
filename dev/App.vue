@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import { tagComponent } from '../src/index'
+import tagComponent from '../src/components/tag-component/tag-component'
 export default {
   name: 'app',
   components: {

@@ -1,8 +1,8 @@
-import * as VueComponentsLibComponents from './components'
+import * as Components from './components'
 
 const VueComponentLib = {
   install (Vue, options) {
-    Object.values(VueComponentsLibComponents).forEach(component => {
+    Object.values(Components).forEach(component => {
       Vue.use(
         component,
         options[component.name] ? options[component.name] : {}
