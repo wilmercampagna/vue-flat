@@ -1,11 +1,10 @@
 {
   "name": "vue-flat-design",
   "version": "0.1.0",
-  "private": false,
-  "main": "dist/vue-flat.common.js",
+  "private": true,
+  "main": "src/index.js",
   "scripts": {
-    "serve": "vue-cli-service serve ./dev/main.js",
-    "build:lib": "vue-cli-service build --target lib --name vue-flat ./build/lib.js",
+    "build": "vue-cli-service build --target lib --name vue-flat ./build/lib.js",
     "lint": "vue-cli-service lint",
     "test": "vue-cli-service test:unit"
   },
