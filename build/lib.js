@@ -1,4 +1,4 @@
-import * as Components from './components'
+import * as Components from '../src/components/index'
 
 const VueComponentLib = {
   install (Vue, options) {

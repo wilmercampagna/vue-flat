@@ -1,11 +1,11 @@
 <template>
   <div id="app">
-<tag-component text="paco"></tag-component>
+    <tag-component text="example text"></tag-component>
   </div>
 </template>
 
 <script>
-import tagComponent from '../src/components/tag-component/tag-component'
+import { tagComponent } from '../../src/index'
 export default {
   name: 'app',
   components: {
