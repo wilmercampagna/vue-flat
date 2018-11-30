@@ -1,7 +1,18 @@
 # vue-flat
-## Libreria de componentes estilo Flat Design para Vue.
-### Una colaboracion del grupo de telegram "Hablemos de Vue.js" para la comunidad y ecosistema de Vue.js.
-### Colaboradores
-#### Instalción
-#### Implementación
-#### Documentación
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
+
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
