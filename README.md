@@ -1,6 +1,8 @@
 # vue-flat
 
-> A Vue.js components library project
+> A flat design component library for Vue
+> A comunity proyect from telegram's group "Hablemos de Vue"
+> https://t.me/vuejsEs
 
 ## How develop this
 
