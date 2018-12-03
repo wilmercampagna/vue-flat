@@ -7,12 +7,12 @@
 1. U need a Vue proyect for develop and try this. Use vue-cli for generate a webpack proyect widin this template:
 ``` bash
 # init Vue webpack Proyect
-vue init webpack-simple vue-flat-development-environment
+vue init webpack-simple vue-flat-development
 ```
 2. U must install all dependencies for run this proyect. U need use this command:
 ``` bash
 # Enter in the proyect dir
-cd vue-flat-development-environment
+cd vue-flat-development
 # install all dependiencies
 npm i
 ```
@@ -21,7 +21,7 @@ npm i
 # Clone this proyect inside src
 git clone https://github.com/HablemosDeVueJS/vue-flat.git src/vue-flat
 ```
-4. So, u must run vue-flat-development-environment proyect for try the library in this development environment. 
+4. So, u must run vue-flat-development proyect for try the library in this development environment. 
 ``` bash
 # run vue proyect
 npm run dev
