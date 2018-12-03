@@ -1,5 +1,7 @@
-import Vue from 'vue';
-import HelloComponent from './index.vue';
+const Vue = require('vue');
+//import Vue from 'vue';
+//import HelloComponent from './index.vue';
+const HelloComponent = require('./index.vue');
 
 // Here are some Jasmine 2.0 tests, though you can
 // use any test runner / assertion library combo you prefer
@@ -7,6 +9,11 @@ describe('HelloComponent', () => {
   // Inspect the raw component options
   it('has a created hook', () => {
     // expect(typeof HelloComponent.created).toBe('function');
+
+
+    //const r = true
+    //expect(r).to.be.equal(true);
+
   })
   // Evaluate the results of functions in
   // the raw component options
