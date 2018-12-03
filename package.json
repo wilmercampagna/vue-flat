@@ -1,0 +1,24 @@
+{
+  "name": "vue-flat",
+  "version": "0.0.0",
+  "description": "> A flat design component library for Vue > A comunity proyect from telegram's group \"Hablemos de Vue\" > https://t.me/vuejsEs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HablemosDeVueJS/vue-flat.git"
+  },
+  "keywords": [
+    "vue",
+    "flat",
+    "design"
+  ],
+  "author": "Leonardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HablemosDeVueJS/vue-flat/issues"
+  },
+  "homepage": "https://github.com/HablemosDeVueJS/vue-flat#readme"
+}
