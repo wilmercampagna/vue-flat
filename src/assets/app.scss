@@ -1,0 +1,21 @@
+$primary: #00d1b2;
+$black: #333;
+
+.is-primary {
+  background-color: $primary;
+  a, p, span, h1, h2 {
+    color: white;
+  }
+}
+
+.is-black {
+  background-color: $black;
+
+  a, p, span, h1, h2 {
+    color: white;
+  }
+}
+
+span {
+  padding: 0px;
+}
