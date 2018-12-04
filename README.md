@@ -1,15 +1,12 @@
 
-
-
-
 # vue-flat
 ## Libreria de componentes estilo Flat Design para Vue.
 ### Una colaboracion del grupo de telegram "Hablemos de Vue.js" para la comunidad y ecosistema de Vue.js. 
 
-```
-<div><a> <img src="https://github.com/wilmercampagna/vue-flat/blob/master/src/assets/VueFlat.jpg"> </a></div>
 
-```
+<div align="center"><a> <img src="https://github.com/wilmercampagna/vue-flat/blob/master/src/assets/VueFlat.jpg"> </a></div>
+
+
 
 ## Bienvenidos al proyecto Vue-Flat
 
@@ -31,10 +28,10 @@ Para subir los cambios al repositorio oficial se seguirán los siguientes pasos:
 
 Guía de uso del entorno de desarrollo
 
-```
-<div>
+
+<div align="center">
 <iframe width="600" height="350" src="https://www.youtube.com/embed/1cQz29xr_1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-```
+
 
 Ver [Guía de uso del entorno de desarrollo](https://www.youtube.com/watch?v=1cQz29xr_1U&t=104s)
 
